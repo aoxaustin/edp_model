@@ -12,18 +12,11 @@ Xiang Ao, Yang Liu, Zhen Huang, Luo Zuo, Qing He. Free-rider Episode Screening v
 
 Reference:
 
-@inproceedings{ao2018free,
-
-title={Free-rider episode screening via dual partition model},  
-
+@inproceedings{ao2018free,  
+title={Free-rider episode screening via dual partition model},   
 author={Ao, Xiang and Liu, Yang and Huang, Zhen and Zuo, Luo and He, Qing},  
-
 booktitle={International Conference on Database Systems for Advanced Applications},  
-
 pages={665--683},  
-
 year={2018},  
-
-organization={Springer}
-
+organization={Springer}  
 }
