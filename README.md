@@ -8,7 +8,7 @@ We provide two Lift measures in the output file. One is exactly EDP produces, an
 
 ## Paper info: 
 
-Xiang Ao, Yang Liu, Zhen Huang, Luo Zuo, Qing He. Free-rider Episode Screening via Dual Partition Model. In Proceedings of the 23rd International Conference on Database Systems for Advanced Applications (DASFAA 2018).
+[Xiang Ao, Yang Liu, Zhen Huang, Luo Zuo, Qing He. Free-rider Episode Screening via Dual Partition Model. In Proceedings of the 23rd International Conference on Database Systems for Advanced Applications (DASFAA 2018).](https://link.springer.com/chapter/10.1007/978-3-319-91452-7_43)
 
 ## Bibtex:
 
