@@ -18,5 +18,4 @@ Reference:
   pages={665--683},  
   year={2018},  
   organization={Springer}
-  
   }
